@@ -28,13 +28,13 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/contracts/release"
-	"github.com/ethereum/go-ethereum/dashboard"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/params"
-	whisper "github.com/ethereum/go-ethereum/whisper/whisperv5"
+	"github.com/sloanyang/go-ethereum/cmd/utils"
+	"github.com/sloanyang/go-ethereum/contracts/release"
+	"github.com/sloanyang/go-ethereum/dashboard"
+	"github.com/sloanyang/go-ethereum/eth"
+	"github.com/sloanyang/go-ethereum/node"
+	"github.com/sloanyang/go-ethereum/params"
+	whisper "github.com/sloanyang/go-ethereum/whisper/whisperv5"
 	"github.com/naoina/toml"
 )
 
